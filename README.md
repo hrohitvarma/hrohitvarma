@@ -2,14 +2,14 @@
 ### Senior Full-Stack Engineer | Architecting Scalable Web Solutions
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrohitvarma&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrohitvarma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrohitvarma&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrohitvarma&layout=compact&theme=default&hide_border=true&cache_seconds=1800" height="165" />
 </p>
 
 ---
 
 ### 💫 About Me
-- 💼 **10+ Years** of experience in Full-Stack Development, System Architecture, and Team Leadership
+- 💼 **2+ Years** of experience in Full-Stack Development, System Architecture, and Team Leadership
 - 🏗️ **Solutions Architect** specializing in enterprise-grade applications and microservices architecture
 - 🚀 Expert in **End-to-End Product Development** - from conception to deployment and scaling
 - 🎯 Strong focus on **Performance Optimization**, **Security Best Practices**, and **Code Quality**
