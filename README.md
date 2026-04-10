@@ -1,5 +1,5 @@
 # Hi, I'm Rohit Varma 👋 
-### Senior Full-Stack Engineer | Architecting Scalable Web Solutions
+### Senior Web Developer | Architecting Scalable Web Solutions
 
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hrohitvarma&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
