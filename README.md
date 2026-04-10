@@ -2,8 +2,8 @@
 ### Senior Full-Stack Engineer | Architecting Scalable Web Solutions
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrohitvarma&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrohitvarma&layout=compact&theme=default&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrohitvarma&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrohitvarma&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 </p>
 
 ---
